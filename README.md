@@ -1,4 +1,4 @@
-#ElasticQuotes - Quotes MiniSearch Engine with Elasticsearch
+# ElasticQuotes - Quotes MiniSearch Engine with Elasticsearch
 
 Search quotes by author(s) powered by;
 
